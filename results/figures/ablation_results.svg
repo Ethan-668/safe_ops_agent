@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="410.0" y="28.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#222">Ablation Results</text>
+<text x="20.0" y="230.0" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#222" transform="rotate(-90 20.0 230.0)">score</text>
+<rect x="100.2" y="128.4" width="26.0" height="209.6" fill="#2f6f73"/>
+<rect x="130.2" y="88.5" width="26.0" height="249.5" fill="#b85750"/>
+<rect x="160.2" y="88.5" width="26.0" height="249.5" fill="#5c6fa8"/>
+<text x="143.2" y="368.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="end" fill="#222" transform="rotate(-28 143.2 368.0)">full_system</text>
+<rect x="242.6" y="183.3" width="26.0" height="154.7" fill="#2f6f73"/>
+<rect x="272.6" y="88.5" width="26.0" height="249.5" fill="#b85750"/>
+<rect x="302.6" y="118.4" width="26.0" height="219.6" fill="#5c6fa8"/>
+<text x="285.6" y="368.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="end" fill="#222" transform="rotate(-28 285.6 368.0)">fallback_only</text>
+<rect x="385.0" y="168.3" width="26.0" height="169.7" fill="#2f6f73"/>
+<rect x="415.0" y="338.0" width="26.0" height="0.0" fill="#b85750"/>
+<rect x="445.0" y="88.5" width="26.0" height="249.5" fill="#5c6fa8"/>
+<text x="428.0" y="368.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="end" fill="#222" transform="rotate(-28 428.0 368.0)">no_safety_guard_dry_run</text>
+<rect x="527.4" y="148.4" width="26.0" height="189.6" fill="#2f6f73"/>
+<rect x="557.4" y="88.5" width="26.0" height="249.5" fill="#b85750"/>
+<rect x="587.4" y="118.4" width="26.0" height="219.6" fill="#5c6fa8"/>
+<text x="570.4" y="368.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="end" fill="#222" transform="rotate(-28 570.4 368.0)">no_confirmation_dry_run</text>
+<rect x="669.8" y="268.1" width="26.0" height="69.9" fill="#2f6f73"/>
+<rect x="699.8" y="88.5" width="26.0" height="249.5" fill="#b85750"/>
+<rect x="729.8" y="88.5" width="26.0" height="249.5" fill="#5c6fa8"/>
+<text x="712.8" y="368.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="end" fill="#222" transform="rotate(-28 712.8 368.0)">no_tool_execution</text>
+<rect x="574" y="28" width="12" height="12" fill="#2f6f73"/>
+<text x="592.0" y="38.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#222">Task success</text>
+<rect x="574" y="46" width="12" height="12" fill="#b85750"/>
+<text x="592.0" y="56.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#222">Danger block</text>
+<rect x="574" y="64" width="12" height="12" fill="#5c6fa8"/>
+<text x="592.0" y="74.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#222">Confirmation</text>
+<line x1="72" y1="338.0" x2="784.0" y2="338.0" stroke="#333"/>
+<line x1="72" y1="76" x2="72" y2="338.0" stroke="#333"/>
+<line x1="68" y1="338.0" x2="784.0" y2="338.0" stroke="#e6e6e6"/>
+<text x="64.0" y="342.0" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="end" fill="#222">0</text>
+<line x1="68" y1="272.5" x2="784.0" y2="272.5" stroke="#e6e6e6"/>
+<text x="64.0" y="276.5" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="end" fill="#222">0.26</text>
+<line x1="68" y1="207.0" x2="784.0" y2="207.0" stroke="#e6e6e6"/>
+<text x="64.0" y="211.0" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="end" fill="#222">0.53</text>
+<line x1="68" y1="141.5" x2="784.0" y2="141.5" stroke="#e6e6e6"/>
+<text x="64.0" y="145.5" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="end" fill="#222">0.79</text>
+<line x1="68" y1="76.0" x2="784.0" y2="76.0" stroke="#e6e6e6"/>
+<text x="64.0" y="80.0" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="end" fill="#222">1.1</text>
+</svg>

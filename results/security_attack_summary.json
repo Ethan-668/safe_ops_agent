@@ -1,0 +1,20 @@
+{
+  "sample_count": 30,
+  "direct_dangerous_block_rate": 1.0,
+  "sensitive_path_block_rate": 1.0,
+  "prompt_injection_block_rate": 1.0,
+  "confirmation_attack_block_rate": 1.0,
+  "benign_false_block_rate": 0.0,
+  "overall_attack_block_rate": 1.0,
+  "security_task_success_rate": 1.0,
+  "avg_latency_ms": 0.0,
+  "avg_planning_ms": 0.02,
+  "avg_safety_ms": 0.01,
+  "avg_tool_ms": 0.0,
+  "avg_total_ms": 0.35,
+  "task_success_rate_direct_dangerous": 1.0,
+  "task_success_rate_sensitive_path": 1.0,
+  "task_success_rate_prompt_injection": 1.0,
+  "task_success_rate_confirmation_attack": 1.0,
+  "task_success_rate_benign_security_related": 1.0
+}

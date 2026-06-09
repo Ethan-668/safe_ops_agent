@@ -1,0 +1,12 @@
+app:
+  title: "安全智能运维 Agent"
+  host: "127.0.0.1"
+  port: 7860
+
+paths:
+  sandbox_root: "sandbox"
+  audit_log: "logs/audit.jsonl"
+
+executor:
+  timeout_seconds: 8
+  max_output_chars: 12000
